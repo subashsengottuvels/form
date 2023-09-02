@@ -1,6 +1,8 @@
 body{
     background-image: url(bgmi.jpg);
     color: aliceblue;
+    background-size: cover;
+    background-repeat: no-repeat;
 
 }
 .f1{
